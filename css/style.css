@@ -1,0 +1,12 @@
+
+#container{ display: flex; justify-content: space-around; }
+
+.comic { width:25vw; height: 25vw; border: 1px solid black; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px; 
+    text-align: center;
+    line-height: 25vw;
+    color: white;
+    background-color: blue; 
+}
+
+.red { background-color: red!important; }
